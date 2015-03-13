@@ -11,7 +11,7 @@
 * Indiquez le dépôt officiel :
 
         cd TP-Git
-        git remote add official git@github.com:benel/TP-Git.git 
+        git remote add official git@github.com:benel/TP-Git.git
 
 * Sur votre disque dur, ajoutez à la fin de ce fichier le prénom et le nom d'un des membres du binôme. La ligne doit commencer par une étoile. Corrigez la liste pour que la dernière ligne se termine par un point et les autres par des virgules.
 * Faites une révision :
@@ -23,7 +23,7 @@
 
         git push
 
-* Dans GitHub faites une demande d'intégration (*pull request*). 
+* Dans GitHub faites une demande d'intégration (*pull request*).
 * Ajoutez le prénom et le nom de l'autre membre du binôme selon les mêmes règles que tout à l'heure.
 * Faites une révision :
 
@@ -74,7 +74,7 @@ Liste des étudiants ayant réussi ce TP
 * Christophe MORE,
 * Mohammed Ouadghiri,
 * Togui Ilyass,
-* Nadia Kamoun, 
+* Nadia Kamoun,
 * Simon Renoult,
 * Arthur Bourjac,
 * Darya Ciuhrii,
@@ -94,4 +94,5 @@ Liste des étudiants ayant réussi ce TP
 * Sebastien PECOUL,
 * Joseph Le,
 * Guokan SHANG,
-* Florian BRUNIAUX.
+* Florian BRUNIAUX,
+* Qing ZHANG.
